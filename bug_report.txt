@@ -1,1 +1,6 @@
 
+        Title Отсутствует кнопка "Forgot your password?" на странице ввода логина и пароля
+        Step to reproduce Заходим на сайт https://qa-internship-2021.redmadrobot.com/login
+        Expected result Наличие кнопки "Forgot your password?"
+        Actual result Отсутствие кнопки "Forgot your password?"
+
